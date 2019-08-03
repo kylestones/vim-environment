@@ -1,0 +1,70 @@
+q;;;; Emacs Bookmark Format Version 1 ;;;;
+;;; This format is meant to be slightly human-readable;
+;;; nevertheless, you probably don't want to edit it.
+;;; -*- End Of Bookmark File Format Version Stamp -*-
+(("basicPsychlolgy.org"
+ (filename . "~/GTD/sentence/psychlolgy/basicPsychlolgy.org")
+ (front-context-string)
+ (rear-context-string . "的失利比暂时的胜利要好很多。\n\n")
+ (position . 238))
+("Vision.org"
+ (filename . "~/GTD/Vision.org")
+ (front-context-string)
+ (rear-context-string . "\n* 很努力、很努力去做成一件事")
+ (position . 219))
+("love.org"
+ (filename . "~/GTD/sentence/love.org")
+ (front-context-string . "#+TITLE: 情话\n#+AU")
+ (rear-context-string)
+ (position . 1))
+("Secret.org"
+ (filename . "~/GTD/BOOK/Secret.org")
+ (front-context-string)
+ (rear-context-string . "么这些就会出现在你的现实生活里。")
+ (position . 241))
+("how-to-read-a-book.org"
+ (filename . "~/GTD/BOOK/how-to-read-a-book.org")
+ (front-context-string)
+ (rear-context-string . "获得资讯而读以及为求得理解而读\n")
+ (position . 678))
+("goodSentence.org"
+ (filename . "~/GTD/BOOK/goodSentence.org")
+ (front-context-string)
+ (rear-context-string . "来爱我\n---《傲慢与偏见》\n\n")
+ (position . 112))
+("org-refile-last-stored"
+ (filename . "~/GTD/Org/life.org")
+ (front-context-string . "** TODO wash sho")
+ (rear-context-string . "-19 Sun 17:16]\n\n")
+ (position . 114))
+("org-capture-last-stored"
+ (filename . "~/GTD/journal.org")
+ (front-context-string . "**** 梦想\nEntered ")
+ (rear-context-string . "医院给小学生体检来收集个人信息\n")
+ (position . 998))
+("mozart"
+ (filename . "~/Music/CloudMusic/music/mozart/")
+ (front-context-string . "CD-01\n  drwxr-xr")
+ (rear-context-string . "96 Feb 26 13:42 ")
+ (position . 230))
+(".emacs-Org"
+ (filename . "~/.emacs")
+ (front-context-string . ";;;;;;;;;;;;;;;O")
+ (rear-context-string . "--------------\n\n")
+ (position . 13737))
+("gtd.org"
+ (filename . "~/GTD/gtd.org")
+ (front-context-string)
+ (rear-context-string . "!) ABORT(a@/!)\n\n")
+ (position . 218))
+("OrgDairy.org"
+ (filename . "~/code/emacsLearning/Org/OrgDairy.org")
+ (front-context-string . "\n\n*** 使用日程表管理任务\n")
+ (rear-context-string . "笔记，并将他们保存到不同的地方。")
+ (position . 29065))
+("kyleEmacsLearningDairy"
+ (filename . "~/code/emacsLearning/dairy.md")
+ (front-context-string)
+ (rear-context-string . "编译，且只编译更改的文件**\n\n")
+ (position . 24344))
+)

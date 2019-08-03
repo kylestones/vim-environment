@@ -1,0 +1,45 @@
+;;;; Emacs Bookmark Format Version 1 ;;;;
+;;; This format is meant to be slightly human-readable;
+;;; nevertheless, you probably don't want to edit it.
+;;; -*- End Of Bookmark File Format Version Stamp -*-
+(("csapp.org"
+ (filename . "~/blog/source/_posts/apue/csapp.org")
+ (front-context-string . "\n\n\n\n** 虚拟内存\n\n***")
+ (rear-context-string . "含任何变量名字以及类型信息* 。")
+ (position . 405))
+("R-CNN.org"
+ (filename . "~/blog/source/_posts/machinelearning/R-CNN.org")
+ (front-context-string . "\n\n\n** 参考\n\n1. [[h")
+ (rear-context-string . "小不一样，要怎样去训练呢？\n\n\n")
+ (position . 772))
+("cuda-basic.org"
+ (filename . "~/blog/source/_posts/cuda/cuda-basic.org")
+ (front-context-string . "#+TITLE:        ")
+ (rear-context-string)
+ (position . 1))
+("happiness.org"
+ (filename . "~/blog/source/_posts/emotion/happiness.org")
+ (front-context-string . " Visualize your ")
+ (rear-context-string . "是我们无法区分是否在做梦的原因。")
+ (position . 2135))
+("YOLO.org"
+ (filename . "~/blog/source/_posts/machinelearning/YOLO.org")
+ (front-context-string . "** YOLO9000\n\nYOL")
+ (rear-context-string . "的视野，它不容易对背景误判。\n\n")
+ (position . 601))
+("org-refile-last-stored"
+ (filename . "~/GTD/Org/life.org")
+ (front-context-string . "** TODO wash sho")
+ (rear-context-string . "-19 Sun 17:16]\n\n")
+ (position . 114))
+("org-capture-last-stored"
+ (filename . "~/GTD/gusty.org")
+ (front-context-string . "** TODO YOLOv3 n")
+ (rear-context-string . "hu 20:00-21:00>\n")
+ (position . 295))
+(".emacs-Org"
+ (filename . "~/.emacs")
+ (front-context-string . ";;;;;;;;;;;;;;;O")
+ (rear-context-string . "--------------\n\n")
+ (position . 13737))
+)
